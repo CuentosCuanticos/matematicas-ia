@@ -18,7 +18,11 @@ Curso de **Cuentos Cuánticos** dedicado a construir, desde sus fundamentos mate
 
 - `00_preparacion/` — preparación del entorno.
 - [`01_perceptron/laboratorio.ipynb`](01_perceptron/laboratorio.ipynb) — Sesión 1: perceptrón desde cero.
+- [`02_geometria/laboratorio.ipynb`](02_geometria/laboratorio.ipynb) — Sesión 2: geometría del perceptrón, transformaciones y escalas.
 
-[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/01_perceptron/laboratorio.ipynb)
+### Abrir directamente en Google Colab
 
-> Las soluciones y materiales internos del equipo docente se mantienen en un repositorio privado separado.
+- [Sesión 1 — Perceptrón](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/01_perceptron/laboratorio.ipynb)
+- [Sesión 2 — Geometría del perceptrón](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/02_geometria/laboratorio.ipynb)
+
+> Las soluciones y materiales internos del equipo docente se mantienen en el repositorio privado separado `CuentosCuanticos/matematicas-ia-docente`.
