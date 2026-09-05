@@ -20,11 +20,13 @@ Curso de **Cuentos Cuánticos** dedicado a construir, desde sus fundamentos mate
 - [`01_perceptron/laboratorio.ipynb`](01_perceptron/laboratorio.ipynb) — Sesión 1: perceptrón desde cero.
 - [`02_geometria/laboratorio.ipynb`](02_geometria/laboratorio.ipynb) — Sesión 2: geometría del perceptrón, transformaciones y escalas.
 - [`03_xor_mlp/laboratorio.ipynb`](03_xor_mlp/laboratorio.ipynb) — Sesión 3: XOR, no linealidad y primera red multicapa.
+- [`04_gradiente/laboratorio.ipynb`](04_gradiente/laboratorio.ipynb) — Sesión 4: funciones de pérdida, derivadas y descenso de gradiente.
 
 ### Abrir directamente en Google Colab
 
 - [Sesión 1 — Perceptrón](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/01_perceptron/laboratorio.ipynb)
 - [Sesión 2 — Geometría del perceptrón](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/02_geometria/laboratorio.ipynb)
 - [Sesión 3 — XOR y red multicapa](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/03_xor_mlp/laboratorio.ipynb)
+- [Sesión 4 — Pérdida y descenso de gradiente](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/04_gradiente/laboratorio.ipynb)
 
 > Las soluciones y materiales internos del equipo docente se mantienen en el repositorio privado separado `CuentosCuanticos/matematicas-ia-docente`.
