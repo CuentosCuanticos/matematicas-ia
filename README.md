@@ -28,6 +28,7 @@ Curso de **Cuentos Cuánticos** dedicado a construir, desde sus fundamentos mate
 - [`10_bigrama/laboratorio.ipynb`](10_bigrama/laboratorio.ipynb) — Sesión 10: modelo bigrama.
 - [`11_lm_neuronal/laboratorio.ipynb`](11_lm_neuronal/laboratorio.ipynb) — Sesión 11: embeddings y primer modelo neuronal de lenguaje.
 - [`12_self_attention/laboratorio.ipynb`](12_self_attention/laboratorio.ipynb) — Sesión 12: self-attention causal desde cero.
+- [`15_generacion_mini_gpt/laboratorio.ipynb`](15_generacion_mini_gpt/laboratorio.ipynb) — Sesión 15: generación autorregresiva, temperatura, top-k, top-p, contexto, KV cache y problema final abierto.
 
 ### Abrir directamente en Google Colab
 
@@ -38,5 +39,6 @@ Curso de **Cuentos Cuánticos** dedicado a construir, desde sus fundamentos mate
 - [Sesión 5 — Backpropagation manual](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/05_backprop/laboratorio.ipynb)
 - [Sesión 6 — Probabilidad y softmax](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/06_probabilidad_softmax/laboratorio.ipynb)
 - [Sesión 12 — Self-attention causal](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/12_self_attention/laboratorio.ipynb)
+- [Sesión 15 — Generación y mini-GPT](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/15_generacion_mini_gpt/laboratorio.ipynb)
 
 > Las soluciones y materiales internos del equipo docente se mantienen en el repositorio privado separado `CuentosCuanticos/matematicas-ia-docente`.
