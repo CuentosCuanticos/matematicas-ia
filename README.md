@@ -22,6 +22,7 @@ Curso de **Cuentos Cuánticos** dedicado a construir, desde sus fundamentos mate
 - [`03_xor_mlp/laboratorio.ipynb`](03_xor_mlp/laboratorio.ipynb) — Sesión 3: XOR, no linealidad y primera red multicapa.
 - [`04_gradiente/laboratorio.ipynb`](04_gradiente/laboratorio.ipynb) — Sesión 4: funciones de pérdida, derivadas y descenso de gradiente.
 - [`05_backprop/laboratorio.ipynb`](05_backprop/laboratorio.ipynb) — Sesión 5: grafo computacional, modo reverso y backpropagation manual.
+- [`06_probabilidad_softmax/laboratorio.ipynb`](06_probabilidad_softmax/laboratorio.ipynb) — Sesión 6: probabilidad condicionada, Bayes, Bernoulli, softmax, cross-entropy y KL.
 
 ### Abrir directamente en Google Colab
 
@@ -30,5 +31,6 @@ Curso de **Cuentos Cuánticos** dedicado a construir, desde sus fundamentos mate
 - [Sesión 3 — XOR y red multicapa](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/03_xor_mlp/laboratorio.ipynb)
 - [Sesión 4 — Pérdida y descenso de gradiente](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/04_gradiente/laboratorio.ipynb)
 - [Sesión 5 — Backpropagation manual](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/05_backprop/laboratorio.ipynb)
+- [Sesión 6 — Probabilidad y softmax](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/06_probabilidad_softmax/laboratorio.ipynb)
 
 > Las soluciones y materiales internos del equipo docente se mantienen en el repositorio privado separado `CuentosCuanticos/matematicas-ia-docente`.
