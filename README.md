@@ -23,6 +23,7 @@ Curso de **Cuentos Cuánticos** dedicado a construir, desde sus fundamentos mate
 - [`04_gradiente/laboratorio.ipynb`](04_gradiente/laboratorio.ipynb) — Sesión 4: funciones de pérdida, derivadas y descenso de gradiente.
 - [`05_backprop/laboratorio.ipynb`](05_backprop/laboratorio.ipynb) — Sesión 5: grafo computacional, modo reverso y backpropagation manual.
 - [`06_probabilidad_softmax/laboratorio.ipynb`](06_probabilidad_softmax/laboratorio.ipynb) — Sesión 6: probabilidad condicionada, Bayes, Bernoulli, softmax, cross-entropy y KL.
+- [`07_pytorch_generalizacion/laboratorio.ipynb`](07_pytorch_generalizacion/laboratorio.ipynb) — Sesión 7: optimización, generalización, regularización y transición a PyTorch.
 - [`08_pca_embeddings/laboratorio.ipynb`](08_pca_embeddings/laboratorio.ipynb) — Sesión 8: PCA, SVD y representaciones.
 - [`09_grafos_gnn/laboratorio.ipynb`](09_grafos_gnn/laboratorio.ipynb) — Sesión 9: grafos, laplaciano y message passing.
 - [`10_bigrama/laboratorio.ipynb`](10_bigrama/laboratorio.ipynb) — Sesión 10: modelo bigrama.
@@ -39,6 +40,7 @@ Curso de **Cuentos Cuánticos** dedicado a construir, desde sus fundamentos mate
 - [Sesión 4 — Pérdida y descenso de gradiente](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/04_gradiente/laboratorio.ipynb)
 - [Sesión 5 — Backpropagation manual](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/05_backprop/laboratorio.ipynb)
 - [Sesión 6 — Probabilidad y softmax](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/06_probabilidad_softmax/laboratorio.ipynb)
+- [Sesión 7 — Optimización, generalización y PyTorch](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/07_pytorch_generalizacion/laboratorio.ipynb)
 - [Sesión 12 — Self-attention causal](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/12_self_attention/laboratorio.ipynb)
 - [Sesión 13 — Bloque Transformer](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/13_transformer/laboratorio.ipynb)
 - [Sesión 15 — Generación y mini-GPT](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/15_generacion_mini_gpt/laboratorio.ipynb)
