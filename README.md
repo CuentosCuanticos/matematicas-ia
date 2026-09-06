@@ -41,6 +41,7 @@ Curso de **Cuentos Cuánticos** dedicado a construir, desde sus fundamentos mate
 - [Sesión 5 — Backpropagation manual](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/05_backprop/laboratorio.ipynb)
 - [Sesión 6 — Probabilidad y softmax](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/06_probabilidad_softmax/laboratorio.ipynb)
 - [Sesión 7 — Optimización, generalización y PyTorch](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/07_pytorch_generalizacion/laboratorio.ipynb)
+- [Sesión 8 — PCA, SVD y embeddings](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/08_pca_embeddings/laboratorio.ipynb)
 - [Sesión 12 — Self-attention causal](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/12_self_attention/laboratorio.ipynb)
 - [Sesión 13 — Bloque Transformer](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/13_transformer/laboratorio.ipynb)
 - [Sesión 15 — Generación y mini-GPT](https://colab.research.google.com/github/CuentosCuanticos/matematicas-ia/blob/main/15_generacion_mini_gpt/laboratorio.ipynb)
